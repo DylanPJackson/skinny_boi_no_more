@@ -1,6 +1,7 @@
 import turtle as t
+import sys
 
-def main():
+def main(): 
     t.done()
 
 main()
